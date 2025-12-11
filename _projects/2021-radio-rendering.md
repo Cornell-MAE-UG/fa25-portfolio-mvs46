@@ -12,7 +12,7 @@ image: /assets/images/straincontour.png
 <br>
 1: The following is my CAD model of the wrench.
 <img src="/assets/images/CADb.png" alt="Alt Text" width="957" height="375.5">
-<img src="//assets/images/CADh.png" alt="Alt Text" width="957" height="375.5">
+<img src="/assets/images/CADh.png" alt="Alt Text" width="957" height="375.5">
 <img src="/assets/images/CADL.png" alt="Alt Text" width="957" height="375.5">
 
 2: The material I will be using is a Titanium alloy. The relevant mechanical properties of this material are:
