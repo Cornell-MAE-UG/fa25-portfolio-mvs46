@@ -3,8 +3,13 @@ layout: project
 title: Wrench Design Project
 description: CAD/ANSYS Project
 technologies: [Autodesk Fusion, ANSYS]
+image: /assets/images/straincontour.png
 ---
 
+<br>
+<br>
+<br>
+<br>
 1: The following is my CAD model of the wrench.
 <img src="/assets/images/CADb.png" alt="Alt Text" width="957" height="375.5">
 <img src="/assets/images/CADh.png" alt="Alt Text" width="957" height="375.5">
