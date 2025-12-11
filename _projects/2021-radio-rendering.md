@@ -2,7 +2,7 @@
 layout: project
 title: Radio CAD Rendering
 description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+technologies: [Autodesk Fusion, ANSYS]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
