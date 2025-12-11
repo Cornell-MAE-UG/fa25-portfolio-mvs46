@@ -11,9 +11,9 @@ image: /assets/images/straincontour.png
 <br>
 <br>
 1: The following is my CAD model of the wrench.
-<img src="/assets/images/CADb.png" alt="Alt Text" width="957" height="375.5">
-<img src="/assets/images/CADh.png" alt="Alt Text" width="957" height="375.5">
-<img src="/assets/images/CADL.png" alt="Alt Text" width="957" height="375.5">
+<img src="/fa25-portfolio-mvs46/assets/images/CADb.png" alt="Alt Text" width="957" height="375.5">
+<img src="/fa25-portfolio-mvs46/assets/images/CADh.png" alt="Alt Text" width="957" height="375.5">
+<img src="/fa25-portfolio-mvs46/assets/images/CADL.png" alt="Alt Text" width="957" height="375.5">
 
 2: The material I will be using is a Titanium alloy. The relevant mechanical properties of this material are:
 Young’s Modulus: 13.1*10^6 psi (The maximum of the listed range on the database, which is the worst case scenario for the purposes of this analysis.)
