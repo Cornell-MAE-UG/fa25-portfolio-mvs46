@@ -13,9 +13,12 @@ image: /assets/images/fluiddiss.png
 
 My contribution to this Fluid Mechanical Dissecction was:
 <br>
--helping take apart the lawn mower where I used wrenches and power tools.
+<br>
+-Helping take apart the lawn mower where I used wrenches and power tools.
+<br>
 <br>
 -Analysis of the carburetor, specifically the venturi. I showed, using fluid mechanical tools, how a venturi mixes fuel into the airflow which then goes to the piston.
+<br>
 <br>
 -I presented my findings in the video, showing the fluid mechanical tools and models of my analysis.  
 
