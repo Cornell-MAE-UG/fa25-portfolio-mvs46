@@ -16,6 +16,7 @@ image: /assets/images/straincontour.png
 <img src="/fa25-portfolio-mvs46/assets/images/CADL.png" alt="Alt Text" width="957" height="375.5">
 
 2: The material I will be using is a Titanium alloy. The relevant mechanical properties of this material are:
+<br>
 Young’s Modulus: 13.1*10^6 psi (The maximum of the listed range on the database, which is the worst case scenario for the purposes of this analysis.)
 
 
