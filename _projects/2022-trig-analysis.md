@@ -7,7 +7,9 @@ image: /assets/images/fluiddiss.png
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QMR9_IDpstQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="640" height="480" controls>
+  <source src="/assets/images/fluidsvideo.mp4" type="video/mp4">
+</video>
 
 My contribution to this Fluid Mechanical Dissecction was:
 -helping take apart the lawn mower where I used wrenches and power tools.
