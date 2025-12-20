@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Fluid Mechanical Dissection
+title: Fluid Mechanics
 description: Fluid Mechanics in a Lawn Mower
 technologies: [DaVinci Resolve (video editing)]
 image: /assets/images/fluiddiss.png
@@ -11,7 +11,7 @@ image: /assets/images/fluiddiss.png
   <source src="/fa25-portfolio-mvs46/assets/images/fluidsvideo.mp4" type="video/mp4">
 </video>
 
-My contribution to this Fluid Mechanical Dissecction was:
+My contribution to this Fluid Mechanical Dissection was:
 <br>
 <br>
 -Helping take apart the lawn mower where I used wrenches and power tools.
