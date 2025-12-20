@@ -8,7 +8,7 @@ image: /assets/images/fluiddiss.png
 
 
 <video width="640" height="480" controls>
-  <source src="/assets/images/fluidsvideo.mp4" type="video/mp4">
+  <source src="/fa25-portfolio-mvs46/assets/images/fluidsvideo.mp4" type="video/mp4">
 </video>
 
 My contribution to this Fluid Mechanical Dissecction was:
