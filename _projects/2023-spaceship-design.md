@@ -3,7 +3,7 @@ layout: project
 title: Heat Sink Analysis
 description: The advantages of using a heat sink. 
 technologies: []
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/cpucooler.jpg
 ---
 
 
