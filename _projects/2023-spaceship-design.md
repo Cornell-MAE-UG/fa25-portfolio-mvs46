@@ -4,6 +4,7 @@ title: Heat Sink Analysis
 description: The advantages of using a heat sink. 
 technologies: []
 image: /assets/images/cpucooler.jpg
+permalink: /projects/heat-transfer-assignment/
 ---
 
 
