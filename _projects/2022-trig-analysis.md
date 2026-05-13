@@ -1,24 +1,10 @@
 ---
 layout: project
-title: Fluid Mechanical Dissection
-description: Fluid Mechanics in a Lawn Mower
-technologies: [DaVinci Resolve (video editing)]
-image: /assets/images/fluiddiss.png
+title: Mechatronics Competition
+description: Robot Cube Collection
+technologies: [SolidWorks, Arduino, Laser Cutting]
+image: /assets/images/mecharobot.jpg
+permalink: /projects/mechatronics/
 ---
 
-
-<video width="640" height="480" controls>
-  <source src="/fa25-portfolio-mvs46/assets/images/fluidsvideo.mp4" type="video/mp4">
-</video>
-
-My contribution to this Fluid Mechanical Dissection was:
-<br>
-<br>
--Helping take apart the lawn mower where I used wrenches and power tools.
-<br>
-<br>
--Analysis of the carburetor, specifically the venturi. I showed, using fluid mechanical tools, how a venturi mixes fuel into the airflow which then goes to the piston.
-<br>
-<br>
--I presented my findings in the video, showing the fluid mechanical tools and models of my analysis.  
-
+[My mechatonics report:]({{ "/assets/MAE 3780 Final Report.pdf" | relative_url }}) in PDF format.
